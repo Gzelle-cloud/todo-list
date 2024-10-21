@@ -1,3 +1,52 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Read+before+start)](https://git.io/typing-svg)
+# Achieve More! - To-Do List App
+
+Welcome to Achieve More!, a simple and intuitive to-do list application designed to help you stay organized and achieve your goals more efficiently. Add tasks, mark them as completed, and delete them once you're done!
+
+## Features
+
+### Add Tasks: 
+Easily add tasks to your to-do list.
+### Mark as Completed: 
+Cross off tasks as you complete them.
+### Delete Tasks: 
+Remove tasks once you're done.
+### Simple and Clean UI: 
+User-friendly interface to manage your tasks.
+
+## Technologies Used
+### React.js: 
+Frontend JavaScript library for building the UI.
+### HTML5: 
+Structuring the content.
+### CSS3: 
+Styling the components.
+
+## Installation
+1. Clone the repository:
+git clone https://github.com/Gzelle-cloud/achieve-more-todo.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd achieve-more-todo
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+The app will be available at http://localhost:3000.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
