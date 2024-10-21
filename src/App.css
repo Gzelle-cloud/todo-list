@@ -1,0 +1,65 @@
+.App {
+  min-height: 80vh;
+  width: 400px;
+  margin: 20px auto;
+}
+
+body {
+  background-image: url('list.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Allura", cursive;
+  font-weight: 200;
+  font-size: 52px;
+  background-color: #FFF6E9;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+.btn {
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  width: 80px;
+  font-family: "Poppins", sans-serif;
+}
+
+.btn-add {
+  background-color: #9BEC00;
+  margin-left: 10px;
+}
+
+.btn-delete {
+  background-color: #F72798;
+}
+
+.crossed {
+  text-decoration: line-through 2px #299dc6;
+  color: #a3a3a3;
+}
+
+ul, li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+}
